@@ -1,0 +1,4 @@
+file=D:\project\bc_im_silk\app\bugly\buglySymbol_libsilkcodec_armeabi-v7a-a7db0.zip
+sha1=1dfd7883d2f6b856c23314c4174c70a82109e64a
+appId=b162469996
+

@@ -1,0 +1,4 @@
+symbolFile=D:\project\bc_im_silk\app\bugly\buglySymbol_libsilkcodec_armeabi-v7a-a7db0.zip
+file=D:\project\bc_im_silk\silkcodec\build\intermediates\cmake\debug\obj\armeabi-v7a\libsilkcodec.so
+uuid=a7db0f81db7c66042a5b0658f66b1027
+
